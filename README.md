@@ -1,6 +1,5 @@
-# Frontend Mentor - Intro component with sign up form solution
+# sign-up form 
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -35,9 +34,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-signup-form-built-with-html-sass-and-javascript-MAlZMjvcD](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-built-with-html-sass-and-javascript-MAlZMjvcD)
-- Live Site URL: [https://rngueco.github.io/intro-component-with-signup-form/](https://rngueco.github.io/intro-component-with-signup-form/)
-
 ## My process
 
 ### Built with
@@ -52,7 +48,3 @@ Users should be able to:
 
 Implementing the client-side form validation for this challenge went easier than the previous one's, thanks to fellow Frontend Mentor developers who helped me improve the previous challenge's form validation.
 
-## Author
-
-- Frontend Mentor - [@rngueco](https://www.frontendmentor.io/profile/rngueco)
-- Twitter - [@RiyanaGueco](https://www.twitter.com/RiyanaGueco)
